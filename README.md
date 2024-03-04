@@ -82,5 +82,5 @@
 
 #### - [ ] 선택) 과제를 마쳤다면 배포도 한번 해볼까요?
 
-> > 
+> > https://todolist-redux-assignment-nine.vercel.app/ 
     
